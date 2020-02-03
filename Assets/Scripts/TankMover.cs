@@ -33,6 +33,19 @@ public class TankMover : MonoBehaviour
         {
             tf.Rotate(0, 0, turnSpeed);
         }
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            shoot();
+        }
 
+    }
+    private void shoot()
+    {
+        
+    }
+ 
+    private void OnCollisionEnter2D(Collision2D otherObject)
+    {
+        Debug.Log("The GameObject of the other object is named: " + otherObject.gameObject.name);
     }
 }
