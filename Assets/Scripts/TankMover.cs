@@ -48,4 +48,15 @@ public class TankMover : MonoBehaviour
     {
         Debug.Log("The GameObject of the other object is named: " + otherObject.gameObject.name);
     }
+    private void OnDestroy()
+    {
+        //If the player dies, they lose a life
+        GameManger.instance.lives -= 1;
+        if (GameManger.instance.lives > 0)
+        {
+            GameManger.instance.Respawn();
+        }
+        else
+            Debug.Log("Game Over");
+    }
 }
