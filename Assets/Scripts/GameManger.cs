@@ -6,11 +6,18 @@ public class GameManger : MonoBehaviour
 {
     public GameObject playerPrefab;
     public GameObject player1;
+
     public static GameManger instance;
+
     public int lives = 3;
     public int score = 0;
+
     public bool isPaused = false;
-    public void Awake()
+
+    public List<GameObject> enemiesList = new List<GameObject>();
+    public GameObject[] ememyPrefab;
+
+        public void Awake()
     {
         if (instance == null)
         {

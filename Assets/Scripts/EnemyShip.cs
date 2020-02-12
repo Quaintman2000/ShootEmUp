@@ -15,6 +15,13 @@ public class EnemyShip : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //adjust rotation every update for heat seeking behavior
+        //
         tf.position = tf.position + Vector3.right * speed * Time.deltaTime;
+    }
+
+    void OnCollisionEnter2D(Collider2D otherObject)
+    {
+
     }
 }

@@ -5,8 +5,12 @@ using UnityEngine;
 public class TankMover : MonoBehaviour
 {
     private Transform tf;
+
     public float speed = 1.0f;
     public float turnSpeed = 1.0f;
+
+    public GameObject bulletPrefab;
+    public Transform firePoint;
 
     // Start is called before the first frame update
     void Start()
@@ -41,7 +45,7 @@ public class TankMover : MonoBehaviour
     }
     private void shoot()
     {
-        
+        Instantiate(bulletPrefab,firePoint.position,firePoint.rotation);
     }
  
     private void OnCollisionEnter2D(Collision2D otherObject)
