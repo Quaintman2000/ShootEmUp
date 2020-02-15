@@ -6,6 +6,7 @@ public class GameManger : MonoBehaviour
 {
     public GameObject playerPrefab;
     public GameObject player1;
+    public GameObject asteroidPrefab;
 
     public static GameManger instance;
 
@@ -17,7 +18,7 @@ public class GameManger : MonoBehaviour
     public List<GameObject> enemiesList = new List<GameObject>();
     public GameObject[] ememyPrefab;
 
-        public void Awake()
+    public void Awake()
     {
         if (instance == null)
         {
@@ -28,6 +29,7 @@ public class GameManger : MonoBehaviour
             Destroy(this.gameObject);
             Debug.LogError("I tried to create a second game manager");
         }
+        Respawn();
     }
 
     // Update is called once per frame
@@ -37,10 +39,19 @@ public class GameManger : MonoBehaviour
         {
             Application.Quit();
         }
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            //if (player1 == null)
+            //{
+            //    Respawn();
+            //}
+
+            Instantiate(asteroidPrefab);
+        }
     }
 
     public void Respawn()
     {
-        Instantiate(playerPrefab);
+        player1 = Instantiate(playerPrefab);
     }
 }

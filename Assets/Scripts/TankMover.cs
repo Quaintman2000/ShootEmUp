@@ -48,12 +48,7 @@ public class TankMover : MonoBehaviour
         Instantiate(bulletPrefab,firePoint.position,firePoint.rotation);
     }
  
-    private void OnCollisionEnter2D(Collision2D otherObject)
-    {
-        Debug.Log("The GameObject of the other object is named: " + otherObject.gameObject.name);
-        // if player runs into the enemy ships, it dies
-        Destroy(this.gameObject);
-    }
+   
     private void OnDestroy()
     {
         //If the player dies, they lose a life
