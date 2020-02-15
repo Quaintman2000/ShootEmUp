@@ -17,11 +17,19 @@ public class EnemyShip : MonoBehaviour
     {
         //adjust rotation every update for heat seeking behavior
         //
-        tf.position = tf.position + Vector3.right * speed * Time.deltaTime;
+        //tf.position = tf.position + Vector3.right * speed * Time.deltaTime;
+       // tf.postion += Vector3.MoveTowards(tf.postion,)
     }
 
-    void OnCollisionEnter2D(Collider2D otherObject)
+    private void OnCollisionEnter2D(Collision2D otherObject)
     {
+        Debug.Log("The GameObject of the other object is named: " + otherObject.gameObject.name);
+        // if player runs into the enemy ships, it dies
+        if (otherObject.gameObject == GameManger.instance.player1)
+        {
+            Destroy(otherObject.gameObject);
+            Destroy(this.gameObject);
+        }
 
     }
 }

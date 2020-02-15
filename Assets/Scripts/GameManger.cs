@@ -8,6 +8,8 @@ public class GameManger : MonoBehaviour
     public GameObject player1;
     public GameObject asteroidPrefab;
 
+   
+
     public static GameManger instance;
 
     public int lives = 3;

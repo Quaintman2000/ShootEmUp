@@ -4,10 +4,12 @@ using UnityEngine;
 
 public class Astroids : MonoBehaviour
 {
+    public Transform tf;
     // Start is called before the first frame update
     void Start()
     {
         GameManger.instance.enemiesList.Add(this.gameObject);
+        tf = GetComponent<Transform>();
     }
 
     // Update is called once per frame
@@ -23,11 +25,11 @@ public class Astroids : MonoBehaviour
     {
         Debug.Log("The GameObject of the other object is named: " + otherObject.gameObject.name);
         // if player runs into the enemy ships, it dies
-        if (otherObject.gameObject == GameManger.instance.player1) 
+        if (otherObject.gameObject == GameManger.instance.player1)
         {
             Destroy(otherObject.gameObject);
             Destroy(this.gameObject);
         }
-        
+
     }
 }

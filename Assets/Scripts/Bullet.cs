@@ -18,4 +18,11 @@ public class Bullet : MonoBehaviour
     {
         tf.position += tf.up * bulletSpeed * Time.deltaTime;
     }
+    private void OnCollisionEnter2D(Collision2D otherObject)
+    {
+        Debug.Log("The GameObject of the other object is named: " + otherObject.gameObject.name);
+        // if player runs into the enemy ships, it dies                
+            Destroy(otherObject.gameObject);
+            Destroy(this.gameObject);                
+    }
 }
