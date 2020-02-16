@@ -1,7 +1,157 @@
 fileFormatVersion: 2
 guid: d29dd623cf7492d4da33e817960ce4d1
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -1000178767686038023
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_0
+  - first:
+      213: 2342522455246380233
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_1
+  - first:
+      213: 5127825937484680612
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_2
+  - first:
+      213: -7585634882747983270
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_3
+  - first:
+      213: -4743193023134851375
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_4
+  - first:
+      213: -5804689612147774255
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_5
+  - first:
+      213: 7028347192105646818
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_6
+  - first:
+      213: 2397841287017933482
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_7
+  - first:
+      213: -1262454204260223383
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_8
+  - first:
+      213: -7747888645508456117
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_9
+  - first:
+      213: 312902256681635780
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_10
+  - first:
+      213: 2725369279802634707
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_11
+  - first:
+      213: -2398289538408621160
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_12
+  - first:
+      213: -8916608342019332670
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_13
+  - first:
+      213: 7485467533217388956
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_14
+  - first:
+      213: -2308229095294206898
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_15
+  - first:
+      213: -1737425032698301522
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_16
+  - first:
+      213: 5732515545404698055
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_17
+  - first:
+      213: 4980867319862555312
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_18
+  - first:
+      213: 1077114041462565871
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_19
+  - first:
+      213: -8661634989362366423
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_20
+  - first:
+      213: 4882059136022571083
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_21
+  - first:
+      213: -8546158188138765194
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_22
+  - first:
+      213: 5258276257230666614
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_23
+  - first:
+      213: 6881299320820352275
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_24
+  - first:
+      213: 5709608876537368851
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_25
+  - first:
+      213: -7577088418477302409
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_26
+  - first:
+      213: 8004347035224244167
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_27
+  - first:
+      213: 4951847625721424265
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_28
+  - first:
+      213: 1528389720420956099
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_29
+  - first:
+      213: 284830487659591080
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_30
+  - first:
+      213: -4876762371368035525
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_31
+  - first:
+      213: -5434066038833260817
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_32
+  - first:
+      213: 5042015888503933790
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_33
+  - first:
+      213: 7358218849274919599
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_34
+  - first:
+      213: -1609934418458542247
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_35
+  - first:
+      213: 321412596695536924
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_36
+  - first:
+      213: 6221910800526138471
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_37
+  - first:
+      213: 1921241100515307758
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_38
+  - first:
+      213: 7220648074598923671
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_39
+  - first:
+      213: -2124264969536749588
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_40
+  - first:
+      213: -1730025038201144214
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_41
+  - first:
+      213: -2166439668445474185
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_42
+  - first:
+      213: -9127431314414594763
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_43
+  - first:
+      213: 6801368137936669087
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_44
+  - first:
+      213: 8046358187909696083
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_45
+  - first:
+      213: 3176738886435910001
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_46
+  - first:
+      213: -5745153859111213967
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_47
+  - first:
+      213: 1549963113077826586
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_48
+  - first:
+      213: -5794862647715052353
+    second: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_49
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +190,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,9 +220,1083 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9113b971eb5cf745aa2c7a0e7c8d5c5
+      internalID: -1000178767686038023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 220.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0de3ee4f4677045a7238eb99cc9ba7
+      internalID: 2342522455246380233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 220.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8299473d6a504ee41b14b22585b51432
+      internalID: 5127825937484680612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 220.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecf3a2ab5ab73643af8299b538bb401
+      internalID: -7585634882747983270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 220.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36110486154b4b24983838c86e1618f7
+      internalID: -4743193023134851375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 220.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a78a61fbb57044ea40bdd514b94d4d
+      internalID: -5804689612147774255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 220.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a00251acf2d2a4ab221fa53f151967
+      internalID: 7028347192105646818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 220.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc83972392f102c459a9bdb198e5c2ac
+      internalID: 2397841287017933482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_8
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 220.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877e7e5b46345b84981f1049ef3ebb83
+      internalID: -1262454204260223383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_9
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 220.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc22b1351faf7242a93e6c061401db7
+      internalID: -7747888645508456117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6247c575c0a78644ac157741737aeef
+      internalID: 312902256681635780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 165.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e343c67aad171d4fb4e2112d1fdcc53
+      internalID: 2725369279802634707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 165.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d640be0c307b04aaa405e11ccb33bc
+      internalID: -2398289538408621160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 165.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db27476c9ec6c3b4f84950536506e13a
+      internalID: -8916608342019332670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 165.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb84b8dd79477714fa2b378b41b80e37
+      internalID: 7485467533217388956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_15
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 165.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cb10a5dbdfda74183a4da169c6e1a3
+      internalID: -2308229095294206898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_16
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 165.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adfdfcc05e0bc1478b60d8e049ac945
+      internalID: -1737425032698301522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_17
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 165.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cc4abaef8eb7d46bf5f3bb1acd87b4
+      internalID: 5732515545404698055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_18
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 165.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc70f64039d65a841987f743d4e2d337
+      internalID: 4980867319862555312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_19
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 165.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171288cfe7a16344ea51e852655eee1c
+      internalID: 1077114041462565871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1663eeb67c12234ebed820e3899cc2b
+      internalID: -8661634989362366423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 110.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de87d02e84a9f8c4a926bdecd7232c0f
+      internalID: 4882059136022571083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_22
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 110.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0349544f70345094ebb795940a83b389
+      internalID: -8546158188138765194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 110.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d1c77b66d6c4e438c3f0e459d52900
+      internalID: 5258276257230666614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_24
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 110.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44e5d03073b4374a807e3671f31943d
+      internalID: 6881299320820352275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_25
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 110.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882d6f1789982174f999bd478c5c293f
+      internalID: 5709608876537368851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_26
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 110.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b0d9ee8dd15c841ba85d571c8f4e66
+      internalID: -7577088418477302409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_27
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 110.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c713b5587314c4d840fff856e094d5
+      internalID: 8004347035224244167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_28
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 110.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38567cc31df7b624b93f092781024537
+      internalID: 4951847625721424265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_29
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 110.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adc00704e0d7404588ce34f89d7e276
+      internalID: 1528389720420956099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0da7919cfd3284592d05489d6a7e59
+      internalID: 284830487659591080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 55.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff11e73c4765a0d4da0d0db9fe290ecf
+      internalID: -4876762371368035525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_32
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 55.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495b7d4ea5de86f40ba6808074bc7cbd
+      internalID: -5434066038833260817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_33
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 55.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3bd840993e35b458699feea4051d68
+      internalID: 5042015888503933790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_34
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 55.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6643b86e45e3be246bad3921c0182573
+      internalID: 7358218849274919599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_35
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 55.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f02b918508677479aac4022dc8ba59
+      internalID: -1609934418458542247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_36
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 55.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7533295867e7324b9cceab7a3d4973a
+      internalID: 321412596695536924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_37
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 55.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d683f5326eb65a54bb23ca3a2b85cfc4
+      internalID: 6221910800526138471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_38
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 55.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe189882513ca54888432738efcb087
+      internalID: 1921241100515307758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_39
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 55.8
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985d00de528b2a24a8280a671d37477b
+      internalID: 7220648074598923671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.79999924
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c352e7a59efc78444ba4d12796e35d7c
+      internalID: -2124264969536749588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_41
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0.79999924
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b44c81f9f25f7f4989c267781cf0cf0
+      internalID: -1730025038201144214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_42
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0.79999924
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf690c98fea11b14cb5e0ba167bc0686
+      internalID: -2166439668445474185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_43
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0.79999924
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c00ae073fbc0fa429a44e8ccf6ff17f
+      internalID: -9127431314414594763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_44
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0.79999924
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c54d860ddb15fb46b2c5255373fb024
+      internalID: 6801368137936669087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_45
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0.79999924
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ffc28bc84849644b9b807b479cd5e2
+      internalID: 8046358187909696083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_46
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0.79999924
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be4faac570c2bd4bb713d1b7a2b6922
+      internalID: 3176738886435910001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_47
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0.79999924
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cdc279b7ba21d4d85a0e8f6a0120d6
+      internalID: -5745153859111213967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_48
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0.79999924
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e075d5344e5f74141a77932c6ec887be
+      internalID: 1549963113077826586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario Pinball Land Super Mario Ball - Bullet Bill_49
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0.79999924
+        width: 59.4
+        height: 55.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaa39bf7a8398d4ca8716b3b4d7f9b7
+      internalID: -5794862647715052353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

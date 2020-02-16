@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TankMover : MonoBehaviour
+public class PlayerShip : MonoBehaviour
 {
     private Transform tf;
 
@@ -11,6 +11,8 @@ public class TankMover : MonoBehaviour
 
     public GameObject bulletPrefab;
     public Transform firePoint;
+
+    public AudioSource boomSound;
 
     // Start is called before the first frame update
     void Start()
@@ -21,6 +23,7 @@ public class TankMover : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //basic controls
         if (Input.GetKey(KeyCode.UpArrow))
         {
             tf.position += tf.up * speed * Time.deltaTime;
@@ -37,6 +40,7 @@ public class TankMover : MonoBehaviour
         {
             tf.Rotate(0, 0, turnSpeed);
         }
+        //shoots a bullet
         if (Input.GetKeyDown(KeyCode.Space))
         {
             shoot();
@@ -45,13 +49,15 @@ public class TankMover : MonoBehaviour
     }
     private void shoot()
     {
+        //spawns the bullet prefab at the position of the firepoint and the direction the firpoint is facing.
         Instantiate(bulletPrefab,firePoint.position,firePoint.rotation);
+        boomSound.Play();
     }
  
    
     private void OnDestroy()
     {
-        //If the player dies, they lose a life
+        //If the player dies, they lose a life and respawns
         GameManger.instance.lives -= 1;
         if (GameManger.instance.lives > 0)
         {
@@ -59,5 +65,11 @@ public class TankMover : MonoBehaviour
         }
         else
             Debug.Log("Game Over");
+        //destroys other objects when player dies
+        Destroy(GameManger.instance.enemiesList[0]);
+        Destroy(GameManger.instance.enemiesList[1]);
+        Destroy(GameManger.instance.enemiesList[2]);
+        //clears the list
+        GameManger.instance.enemiesList.Clear();
     }
 }
